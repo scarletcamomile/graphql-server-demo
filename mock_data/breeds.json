@@ -1,0 +1,76 @@
+[
+   {
+     "id": "4d8ca9d8-6b2e-4f71-9f2f-81ae31dac3e3",
+     "name": "Bengal",
+     "vocalness": "frequent",
+     "temperament": ["sociable", "affectionate", "bold"],
+     "colors": ["lavender", "silver, chocolate", "brown", "sable"]
+   },
+   {
+     "id": "ff3aeaa3-7837-4195-ba4b-51bd249e791f",
+     "name": "Scottish Fold (Highland Fold)",
+     "vocalness": "when necessary",
+     "temperament": ["affectionate"],
+     "colors": [
+       "fawn",
+       "lavender / silver",
+       "blue / gray",
+       "black / ebony",
+       "cream / beige / tan",
+       "red / orange"
+     ]
+   },
+   {
+     "id": "6af30949-bf0f-4140-89fb-273e4334cdca",
+     "name": "Norwegian Forest Cat",
+     "vocalness": "quiet",
+     "temperament": ["sociable", "affectionate", "bold"],
+     "colors": [
+       "white",
+       "black / ebony",
+       "red / orange",
+       "blue / gray",
+       "lavender / silver",
+       "cream / beige / tan"
+     ]
+   },
+   {
+     "id": "59f436b8-a0c7-43d7-aa5d-f62cef88f585",
+     "name": "Maine Coon",
+     "vocalness": "when necessary",
+     "temperament": ["sociable", "affectionate"],
+     "colors": [
+       "white",
+       "black / ebony",
+       "red / orange",
+       "blue / gray",
+       "cream / beige / tan",
+       "chocolate / brown / sable"
+     ]
+   },
+   {
+     "id": "b2a6a28d-91df-4ebf-9dc1-bfcb99700d27",
+     "name": "Siamese",
+     "vocalness": "howler",
+     "temperament": ["sociable", "affectionate", "neurotic", "bold"],
+     "colors": [
+       "chocolate / brown / sable",
+       "cinnamon",
+       "lavender / silver",
+       "fawn",
+       "blue / gray",
+       "black / ebony",
+       "cream / beige / tan",
+       "lilac",
+       "white"
+     ]
+   },
+   {
+     "id": "d4121974-4a8f-488e-84aa-3185311afd73",
+     "name": "Turkish Van",
+     "vocalness": "when necessary",
+     "temperament": ["sociable"],
+     "colors": ["white"]
+   }
+ ]
+ 
